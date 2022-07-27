@@ -5,3 +5,5 @@ paneer
 oil
 chocolate
 Pen
+Eraser
+Bucket
